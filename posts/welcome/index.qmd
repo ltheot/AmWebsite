@@ -1,12 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-09-07"
-categories: [news]
+title: "Welcome"
+author: "Theo"
+date: "2025-19-10"
+categories: [Intro]
+image: "quen_bike.jpeg"
 ---
 
 This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Here I will try reporting on our cycling journey.
